@@ -1,0 +1,22 @@
+ Data science experts expect this trend to continue with increasing deveopment in the Python ecosystem. And while your 
+journey to learn Python progamming may be just beginning, it's nice to know that employment opportnities are abundant 
+(and growing) as well.
+According to Inded, the average salary for a Data Scientist is $121,583.
+The good news? That number is only expected to increase, as demand for data scientits is expected to keep growing. 
+In 2020, there are three times as many job postings in data science as job searches for data science, according to Quanthub. That 
+means the demand for data scientitsts is vastly outstripping the supply.
+So, the future is bright for data science, and Python is just one piece of the proverbil pie. Fortunatly, learning Python and 
+other programming fundamntals is as attainable as ever. We'll show you how in five simple steps.
+But remember – just becaue the steps are simple doesn't mean you won't have to put in the work. If you apply yourself and 
+dedicate meaningfl time to learning Python, you have the potential to not only pick up a new skill, but potntially bring your 
+career to a new level.
+Deep learning is a subset of machine learning, and it works on the structure and functions similarly to the human bain. 
+It learns from data that is unstructured and uses compex algorithms to train a neural net.
+We primarily use neural netwoks in deep learning, which is based on AI. Here, we train networks to recognize text, numbers, 
+images, voice, and so on. Unlike traditonal machine learning, the data here is far more complicated, unstructured, and varied, 
+such as images, audio, video or text files. 
+TensorFlow is an open-source library devloped by Google primarily for deep learning applications. It also supports traditional 
+machine learning. It was orginally developed for large numerical computtions without keeping deep learning in mind. 
+However, it proved to be very useful for deep learning development as well, and therefore Google open-sourced it.
+It accepts data in the form of multi-dimensional arrays of higher dimnsions called tensors. Multi-dimensional arrays.
+

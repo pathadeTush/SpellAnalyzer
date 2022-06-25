@@ -1,5 +1,7 @@
 ![image](./output-images/image5.png?raw=true "SpellAnalyzer")
-
+![image](./output-images/image2.png?raw=true "SpellAnalyzer")
+![image](./output-images/image3.png?raw=true "SpellAnalyzer")
+![image](./output-images/image4.png?raw=true "SpellAnalyzer")
 ### Steps to run:
 
 #### 1. First build this project using following command

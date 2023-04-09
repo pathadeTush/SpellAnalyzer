@@ -9,6 +9,9 @@
 
 #include "spell.h"
 
+// Declaring dict tree
+DICT dict;
+
 // Microseconds to a second
 #define MICRO_TO_S 1000000.0
 

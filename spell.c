@@ -9,6 +9,9 @@
 
 #include "spell.h"
 
+// defined in main.c
+extern DICT dict;
+
 /** function to check ascii value is of small alphabet or not **/
 int isSmallAlpha(int ch)
 {

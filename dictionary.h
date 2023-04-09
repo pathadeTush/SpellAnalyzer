@@ -71,6 +71,3 @@ void UnloadData(DICT *dict);
 
 /** function to print all words loaded into the trie **/
 void traverse(DICT dict, int level, char word[]);
-
-// Declaring dict tree
-DICT dict;

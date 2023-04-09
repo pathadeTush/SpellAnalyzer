@@ -9,6 +9,9 @@
 
 #include "spell.h"
 
+// defined in main.c
+extern DICT dict;
+
 // fucnction to check for a leaf node
 int isLeafNode(node *Node)
 {

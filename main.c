@@ -303,7 +303,7 @@ int main(int argc, char *argv[])
                 else if (temp_char == 's' || temp_char == 'S')
                 {
                     appostropheInBetn += 2;
-                    word[++index] == temp_char;
+                    word[++index] = temp_char;
                     k++;
                     continue;
                 }
